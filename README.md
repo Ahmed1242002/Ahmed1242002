@@ -66,8 +66,8 @@ A complete end-to-end analysis of customer behavior, product performance, and sa
 ### 5️⃣ **Upcoming Project: Economic Indicators Analysis**
 
 📍 *Python + Seaborn + Matplotlib + Power BI*
-A full analysis of economic indicators across multiple countries with advanced visualizations and dashboards.
 🔗 GitHub Repo: [https://github.com/Ahmed1242002/WorldBankProject](https://github.com/Ahmed1242002/WorldBankProject)
+A full analysis of economic indicators across multiple countries with advanced visualizations and dashboards.
 ---
 
 ## 📫 Connect With Me
