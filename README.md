@@ -29,44 +29,46 @@ Welcome to my GitHub! I'm a Data Analyst passionate about turning raw data into 
 
 ## 📂 Featured Projects
 
-Here are some of the best projects I've built:
+1️⃣ AdventureWorks – Business Intelligence Dashboard
 
-### 1️⃣ **Data Jobs Analysis Dashboard**
+📍 Power BI Business Intelligence Project
+🔗 GitHub Repo: https://github.com/Ahmed1242002/Adventure_Works
 
-📍 *Power BI Project*
-🔗 GitHub Repo: [https://github.com/Ahmed1242002/Data_Jobs](https://github.com/Ahmed1242002/Data_Jobs)
+An end-to-end Business Intelligence project built using the AdventureWorks dataset. The dashboard focuses on sales performance, revenue analysis, customer insights, and product performance to support executive decision-making. Implemented a star schema data model, advanced DAX measures, time intelligence, and performance optimization. Features include executive dashboards, drill-through analysis, custom tooltips, bookmarks, dynamic filters, Decomposition Tree, and Power BI Q&A.
+
+2️⃣ Data Jobs Analysis Dashboard
+
+📍 Power BI Project
+🔗 GitHub Repo: https://github.com/Ahmed1242002/Data_Jobs
+
 This project analyzes job postings across different data roles to explore salary trends, job availability, and market demand. It gives job seekers a clear view of opportunities in the data field.
 
----
+3️⃣ Nashville Housing – Data Cleaning using SQL
 
-### 2️⃣ **Nashville Housing – Data Cleaning using SQL**
+📍 SQL Server Project
+🔗 GitHub Repo: https://github.com/Ahmed1242002/NashvilleHousing
 
-📍 *SQL Server Project*
-🔗 GitHub Repo: [https://github.com/Ahmed1242002/NashvilleHousing](https://github.com/Ahmed1242002/NashvilleHousing)
 A full data cleaning project using SQL Server to fix inconsistencies, standardize data, and prepare it for analysis. Focused on real-world cleaning steps like handling missing data and splitting columns.
 
----
+4️⃣ COVID-19 Data Exploration & Visualization
 
-### 3️⃣ **COVID‑19 Data Exploration & Visualization**
+📍 Python Analysis Project
+🔗 GitHub Repo: https://github.com/Ahmed1242002/Covid-19
 
-📍 *Python Analysis Project*
-🔗 GitHub Repo: [https://github.com/Ahmed1242002/Covid-19](https://github.com/Ahmed1242002/Covid-19)
 This project explores global, continental, and country-level COVID-19 data to study infection trends, death rates, and regional patterns.
 
----
+5️⃣ Superstore – Shopping Performance Dashboard
 
-### 4️⃣ **Superstore – Shopping Performance Dashboard**
+📍 Power BI + SQL + Python Project
+🔗 GitHub Repo: https://github.com/Ahmed1242002/Superstore
 
-📍 *Power BI + SQL + Python Project*
-🔗 GitHub Repo: [https://github.com/Ahmed1242002/Superstore](https://github.com/Ahmed1242002/Superstore)
 A complete end-to-end analysis of customer behavior, product performance, and sales trends with dashboards showing insights for business decisions.
 
----
+6️⃣ Upcoming Project: Economic Indicators Analysis
 
-### 5️⃣ **Upcoming Project: Economic Indicators Analysis**
+📍 Python + Seaborn + Matplotlib + Power BI
+🔗 GitHub Repo: https://github.com/Ahmed1242002/WorldBankProject
 
- *Python + Seaborn + Matplotlib + Power BI*
-🔗 GitHub Repo: [https://github.com/Ahmed1242002/WorldBankProject](https://github.com/Ahmed1242002/WorldBankProject)
 A full analysis of economic indicators across multiple countries with advanced visualizations and dashboards.
 
 ---
