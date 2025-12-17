@@ -64,7 +64,7 @@ This project explores global, continental, and country-level COVID-19 data to st
 
 A complete end-to-end analysis of customer behavior, product performance, and sales trends with dashboards showing insights for business decisions.
 
-6️⃣ Upcoming Project: Economic Indicators Analysis
+6️⃣ Economic Indicators Analysis
 
 📍 Python + Seaborn + Matplotlib + Power BI
 🔗 GitHub Repo: https://github.com/Ahmed1242002/WorldBankProject
