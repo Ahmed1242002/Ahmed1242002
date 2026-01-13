@@ -1,81 +1,124 @@
-# 👋 Hi, I'm Ahmed Mahmoud
+👋 Hi, I'm Ahmed Mahmoud
+📊 Data Analyst | Power BI | SQL | Python | Business Intelligence
 
-### 🎯 Data Analyst | Python | SQL | Power BI | Machine Learning Enthusiast
+Welcome to my GitHub portfolio.
+I’m a Data Analyst with a strong focus on business intelligence and data-driven decision making.
+I work on real-world datasets to transform raw data into clear insights, reports, and interactive dashboards that support business goals.
 
-Welcome to my GitHub! I'm a Data Analyst passionate about turning raw data into powerful insights. I work with Python, SQL, and visualization tools to build meaningful dashboards and analytical projects.
+🚀 About Me
 
----
+🎓 Background in Computer Science & Artificial Intelligence
 
-## 🚀 About Me
+📊 Strong experience in data analysis & visualization
 
-* 🎓 Computer Science & Artificial Intelligence background
-* 📊 Skilled in Python, Pandas, NumPy, Matplotlib, Seaborn
-* 🗄️ Experienced with SQL Server & database management
-* 📈 Creating dashboards using **Power BI**
-* 🤖 Learning Machine Learning step by step
-* 💼 Preparing for Data Analyst / Data Scientist roles
+🗄️ Skilled in SQL Server for data cleaning, modeling, and querying
 
----
+📈 Building interactive Power BI dashboards for business users
 
-## 🛠️ Tech Stack
+🐍 Proficient in Python for data analysis (Pandas, NumPy, Matplotlib, Seaborn)
 
-**Languages & Tools:**
+🤖 Currently expanding my knowledge in Machine Learning fundamentals
 
-* Python | SQL | DAX | Power BI | Excel
-* Pandas | NumPy | Matplotlib | Seaborn
-* Git & GitHub | Jupyter Notebook
+💼 Actively seeking Junior Data Analyst / Data Analyst opportunities
 
----
+🛠️ Tech Stack
 
-## 📂 Featured Projects
+Languages & Tools
 
+Python | SQL | DAX
+
+Power BI | Excel
+
+Libraries & Platforms
+
+Pandas | NumPy | Matplotlib | Seaborn
+
+SQL Server | Jupyter Notebook
+
+Git & GitHub
+
+⭐ Featured Projects
 1️⃣ AdventureWorks – Business Intelligence Dashboard
 
-📍 Power BI Business Intelligence Project
-🔗 GitHub Repo: https://github.com/Ahmed1242002/Adventure_Works
+📍 Power BI | SQL | DAX
+🔗 https://github.com/Ahmed1242002/Adventure_Works
 
-An end-to-end Business Intelligence project built using the AdventureWorks dataset. The dashboard focuses on sales performance, revenue analysis, customer insights, and product performance to support executive decision-making. Implemented a star schema data model, advanced DAX measures, time intelligence, and performance optimization. Features include executive dashboards, drill-through analysis, custom tooltips, bookmarks, dynamic filters, Decomposition Tree, and Power BI Q&A.
+An end-to-end Business Intelligence solution built on the AdventureWorks dataset.
+The project focuses on executive-level reporting and performance monitoring through a well-designed star schema model and advanced DAX calculations.
 
-2️⃣ Data Jobs Analysis Dashboard
+Key Highlights:
 
-📍 Power BI Project
-🔗 GitHub Repo: https://github.com/Ahmed1242002/Data_Jobs
+Star schema data modeling
 
-This project analyzes job postings across different data roles to explore salary trends, job availability, and market demand. It gives job seekers a clear view of opportunities in the data field.
+Advanced DAX & time intelligence
 
-3️⃣ Nashville Housing – Data Cleaning using SQL
+Executive dashboards & KPI tracking
 
-📍 SQL Server Project
-🔗 GitHub Repo: https://github.com/Ahmed1242002/NashvilleHousing
+Drill-through, tooltips, bookmarks, and decomposition tree
 
-A full data cleaning project using SQL Server to fix inconsistencies, standardize data, and prepare it for analysis. Focused on real-world cleaning steps like handling missing data and splitting columns.
+Optimized performance for large datasets
 
-4️⃣ COVID-19 Data Exploration & Visualization
+2️⃣ MISUO – Sales & Performance Analysis Dashboard
 
-📍 Python Analysis Project
-🔗 GitHub Repo: https://github.com/Ahmed1242002/Covid-19
+📍 Power BI | SQL | Business Analysis
+🔗 https://github.com/Ahmed1242002/MISUo
 
-This project explores global, continental, and country-level COVID-19 data to study infection trends, death rates, and regional patterns.
+A real-world business intelligence project developed for MISUO, aimed at analyzing sales performance, customer behavior, and product trends to support management decision-making.
 
-5️⃣ Superstore – Shopping Performance Dashboard
+Key Highlights:
 
-📍 Power BI + SQL + Python Project
-🔗 GitHub Repo: https://github.com/Ahmed1242002/Superstore
+Business problem understanding & KPI definition
 
-A complete end-to-end analysis of customer behavior, product performance, and sales trends with dashboards showing insights for business decisions.
+Data cleaning and preparation using SQL
 
-6️⃣ Economic Indicators Analysis
+Interactive dashboards for sales monitoring
 
-📍 Python + Seaborn + Matplotlib + Power BI
-🔗 GitHub Repo: https://github.com/Ahmed1242002/WorldBankProject
+Insights to identify revenue drivers and performance gaps
 
-A full analysis of economic indicators across multiple countries with advanced visualizations and dashboards.
+3️⃣ Superstore – End-to-End Sales Analysis
 
----
+📍 Power BI | SQL | Python
+🔗 https://github.com/Ahmed1242002/Superstore
 
-## 📫 Connect With Me
+A complete analysis of sales, customers, and products using multiple tools.
+The project demonstrates an end-to-end workflow from raw data to actionable insights and dashboards.
 
-* 📧 Email: **[am4120362@gmail.com](mailto:am4120362@gmail.com)**
-* 🔗 LinkedIn: [linkedin.com/in/ahmed-mahmoud-7b592125a](https://www.linkedin.com/in/ahmed-mahmoud-7b592125a)
+4️⃣ Data Jobs Market Analysis
 
-Thanks for visiting! ⭐ Feel free to check out my repositories or reach out if you'd like to collaborate.
+📍 Power BI
+🔗 https://github.com/Ahmed1242002/Data_Jobs
+
+An analytical dashboard exploring job market trends across data-related roles.
+Focuses on salary ranges, job availability, and demand across different positions.
+
+5️⃣ Nashville Housing – Data Cleaning Project
+
+📍 SQL Server
+🔗 https://github.com/Ahmed1242002/NashvilleHousing
+
+A practical SQL project focused on real-world data cleaning tasks, including:
+
+Handling missing values
+
+Standardizing data formats
+
+Splitting and transforming columns
+
+Preparing data for analysis
+
+📌 Additional Projects
+
+These projects are available on my GitHub for reference and practice, but are not highlighted in the main portfolio:
+
+COVID-19 Data Exploration & Visualization
+
+Economic Indicators Analysis (World Bank Data)
+
+📫 Connect With Me
+
+📧 Email: am4120362@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/ahmed-mahmoud-7b592125a
+
+⭐ Thank you for visiting my profile.
+Feel free to explore my repositories or reach out for collaboration or opportunities.
