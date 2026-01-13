@@ -1,11 +1,11 @@
-👋 Hi, I'm Ahmed Mahmoud
+# 👋 Hi, I'm Ahmed Mahmoud
 📊 Data Analyst | Power BI | SQL | Python | Business Intelligence
 
 Welcome to my GitHub portfolio.
 I’m a Data Analyst with a strong focus on business intelligence and data-driven decision making.
 I work on real-world datasets to transform raw data into clear insights, reports, and interactive dashboards that support business goals.
 
-🚀 About Me
+## 🚀 About Me
 
 🎓 Background in Computer Science & Artificial Intelligence
 
@@ -21,7 +21,7 @@ I work on real-world datasets to transform raw data into clear insights, reports
 
 💼 Actively seeking Junior Data Analyst / Data Analyst opportunities
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Languages & Tools
 
@@ -37,8 +37,8 @@ SQL Server | Jupyter Notebook
 
 Git & GitHub
 
-⭐ Featured Projects
-1️⃣ AdventureWorks – Business Intelligence Dashboard
+## ⭐ Featured Projects
+### 1️⃣ AdventureWorks – Business Intelligence Dashboard
 
 📍 Power BI | SQL | DAX
 🔗 https://github.com/Ahmed1242002/Adventure_Works
@@ -58,7 +58,7 @@ Drill-through, tooltips, bookmarks, and decomposition tree
 
 Optimized performance for large datasets
 
-2️⃣ MISUO – Sales & Performance Analysis Dashboard
+### 2️⃣ MISUO – Sales & Performance Analysis Dashboard
 
 📍 Power BI | SQL | Business Analysis
 🔗 https://github.com/Ahmed1242002/MISUo
@@ -75,7 +75,7 @@ Interactive dashboards for sales monitoring
 
 Insights to identify revenue drivers and performance gaps
 
-3️⃣ Superstore – End-to-End Sales Analysis
+### 3️⃣ Superstore – End-to-End Sales Analysis
 
 📍 Power BI | SQL | Python
 🔗 https://github.com/Ahmed1242002/Superstore
@@ -83,7 +83,7 @@ Insights to identify revenue drivers and performance gaps
 A complete analysis of sales, customers, and products using multiple tools.
 The project demonstrates an end-to-end workflow from raw data to actionable insights and dashboards.
 
-4️⃣ Data Jobs Market Analysis
+### 4️⃣ Data Jobs Market Analysis
 
 📍 Power BI
 🔗 https://github.com/Ahmed1242002/Data_Jobs
@@ -91,7 +91,7 @@ The project demonstrates an end-to-end workflow from raw data to actionable insi
 An analytical dashboard exploring job market trends across data-related roles.
 Focuses on salary ranges, job availability, and demand across different positions.
 
-5️⃣ Nashville Housing – Data Cleaning Project
+### 5️⃣ Nashville Housing – Data Cleaning Project
 
 📍 SQL Server
 🔗 https://github.com/Ahmed1242002/NashvilleHousing
@@ -106,7 +106,7 @@ Splitting and transforming columns
 
 Preparing data for analysis
 
-📌 Additional Projects
+## 📌 Additional Projects
 
 These projects are available on my GitHub for reference and practice, but are not highlighted in the main portfolio:
 
@@ -114,7 +114,7 @@ COVID-19 Data Exploration & Visualization
 
 Economic Indicators Analysis (World Bank Data)
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: am4120362@gmail.com
 
